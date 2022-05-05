@@ -16,4 +16,5 @@ start www.youtube.com
 start www.wikipedia.com
 start Edge
 start Microsft Edge
-start 
+start INKFAX
+start INK
